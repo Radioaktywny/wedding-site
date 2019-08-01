@@ -3,8 +3,9 @@
     "name": "klaudiaimarcin",
     "version": "1.0.0",
     "scripts": {
-        "start": "node_modules/.bin/gulp"
-    },
+        "start": "node app",
+        "postinstall": "gulp default"
+      },
     "dependencies": {
         "browser-sync": "2.26.7",
         "del": "4.1.1",
