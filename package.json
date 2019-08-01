@@ -3,9 +3,9 @@
     "name": "klaudiaimarcin",
     "version": "1.0.0",
     "scripts": {
-        "start": "node app",
-        "postinstall": "gulp default"
-      },
+        "start": "node klaudiaimarcin",
+        "postInstall": "node_modules/.bin/gulp"
+    },
     "dependencies": {
         "browser-sync": "2.26.7",
         "del": "4.1.1",
