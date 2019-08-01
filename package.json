@@ -3,7 +3,6 @@
     "name": "klaudiaimarcin",
     "version": "1.0.0",
     "scripts": {
-        "start": "node klaudiaimarcin",
         "postInstall": "node_modules/.bin/gulp"
     },
     "dependencies": {
