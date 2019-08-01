@@ -1,9 +1,9 @@
 {
     "title": "Klaudia i Marcin",
     "name": "klaudiaimarcin",
-    "version": "5.1.7",
+    "version": "1.0.0",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp"
     },
     "dependencies": {
         "browser-sync": "2.26.7",
